@@ -1,0 +1,8 @@
+com.monocept.model.Analyst@15db9742developer
+nongamba
+92000.0
+
+manager
+vipul
+155000.0
+

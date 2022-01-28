@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.onocept.decorator&apos; to &apos;com.monocept.decorator&apos;&#x0D;&#x0A;- Original project: &apos;DecoratorDesignPattern&apos;&#x0D;&#x0A;- Original element: &apos;DecoratorDesignPattern/src/com.onocept.decorator&apos;&#x0D;&#x0A;- Renamed element: &apos;DecoratorDesignPattern/src/com.monocept.decorator&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.onocept.decorator&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.onocept.decorator" name="com.monocept.decorator" qualified="false" references="true" stamp="1636052795902" textual="false" version="1.0"/>
+</session>

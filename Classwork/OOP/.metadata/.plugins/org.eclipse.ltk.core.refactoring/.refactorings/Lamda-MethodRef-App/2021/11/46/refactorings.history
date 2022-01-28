@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.lambda.Predicate&apos; to &apos;IPredicate&apos;&#x0D;&#x0A;- Original project: &apos;Lamda-MethodRef-App&apos;&#x0D;&#x0A;- Original element: &apos;com.lambda.Predicate&apos;&#x0D;&#x0A;- Renamed element: &apos;com.lambda.IPredicate&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Predicate&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.lambda{Predicate.java[Predicate" matchStrategy="1" name="IPredicate" qualified="false" references="true" similarDeclarations="false" stamp="1636390198742" textual="false" version="1.0"/>
+</session>

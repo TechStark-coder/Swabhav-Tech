@@ -1,0 +1,6 @@
+Name = vishak
+Salary = 36000.0
+Name = nongamba
+Salary = 92000.0
+Name = vipul
+Salary = 155000.0

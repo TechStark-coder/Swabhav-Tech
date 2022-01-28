@@ -1,0 +1,17 @@
+/**Copyright to customer-app by asif
+All rights reserved.
+*/
+package image.store.test;
+
+@Document("UploadFiles")
+public class UploadFile {
+	@Id
+	private String id;
+	private String name;
+	private Date createdTime;
+	private Binary content;
+	private String contentType;
+	private long size;
+	
+
+}

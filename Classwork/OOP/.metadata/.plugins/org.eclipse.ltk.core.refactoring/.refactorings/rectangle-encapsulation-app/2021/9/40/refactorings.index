@@ -1,0 +1,6 @@
+1632826171707	Encapsulate field 'width'
+1632826177043	Encapsulate field 'height'
+1632910219124	Rename local variable 'h'
+1632910243422	Rename local variable 'w'
+1632911231544	Rename local variable 'pwidth'
+1632911256075	Rename local variable 'pheight'
