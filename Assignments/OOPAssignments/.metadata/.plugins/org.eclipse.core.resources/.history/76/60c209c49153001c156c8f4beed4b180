@@ -1,0 +1,22 @@
+// Copyright to user asif 2021 
+//all rights reserved */
+package com.monocept.basic;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+
+@SuppressWarnings("serial")
+public class ThreeButtons {
+	public static void main(String[] args) {
+		JFrame f = new JFrame("Button Example");
+		JButton a = new JButton("Hello");
+		JButton b = new JButton("print");
+		JButton c = new JButton("printasync");
+		
+		b.setBounds(50, 100, 95, 30);
+		f.add(b);
+		f.setSize(400, 200);
+		f.setLayout(null);
+		f.setVisible(true);
+	}
+}

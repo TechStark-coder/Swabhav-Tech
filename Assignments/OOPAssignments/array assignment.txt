@@ -1,0 +1,98 @@
+READ SINGLE STRING
+package com.monocept.basic;
+
+public class ArrayTest {
+	public static void main(String args[]) {
+		String[] array = { "asif", "tech", "stark", "flames" };
+		System.out.println(array[0]);
+	}
+
+}
+--------------------
+READ ALL STRINGS
+package com.monocept.basic;
+
+import java.util.Arrays;
+
+public class ArrayTest {
+	public static void main(String args[]) {
+		String[] array = { "asif", "tech", "stark", "flames" };
+		System.out.println(Arrays.toString(array));
+	}
+
+}
+------------------------
+EDIT ARRAY
+package com.monocept.basic;
+
+public class ArrayTest {
+	public static void main(String args[]) {
+		String[] array = { "asif", "tech", "stark", "flames" };
+		array[0] =  "manoj";
+		System.out.println(array[0]);
+	}
+
+}
+--------------------------
+RAED SINGLE INT
+package com.monocept.basic;
+
+public class ArrayTest {
+	public static void main(String args[]) {
+		int[] myNum = {10, 20, 30, 40};
+		System.out.println(myNum[3]);
+	}
+
+}
+----------------
+READ INT
+package com.monocept.basic;
+
+public class ArrayTest {
+	public static void main(String args[]) {
+		int[] myNum = new int[] {4,5,6,7,8};
+		
+		//for (int i=0; i<myNum.length; i++)
+		{
+		  System.out.println(myNum[0]);
+		}
+	}
+}
+---------------------------
+
+WHILE LOOP
+package com.monocept.basic;
+
+public class LoopTest {
+	public static void main (String args[]) {
+		int i = 0 ;
+		while (i < 5) {
+		  System.out.println(i);
+		  i++;
+		 }
+	}
+	
+
+}
+
+-----------------------
+DO WHILE
+
+//		int i = 0;
+//		do {
+//		  System.out.println(i);
+//		  i++;
+//		}
+//		while (i < 5);
+//	}
+//}
+
+-------------------
+FOR LOOP
+		for (int i = 0; i < 5; i++) {
+			  System.out.println(i);
+			}
+	}
+}
+------------------
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;words&apos; in &apos;com.monocept.model.LargestSalary.main(...)&apos; to &apos;salary&apos;&#x0D;&#x0A;- Original project: &apos;employee-data-analyzer&apos;&#x0D;&#x0A;- Original element: &apos;com.monocept.model.LargestSalary.main(String[]).words&apos;&#x0D;&#x0A;- Renamed element: &apos;words&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;words&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.monocept.model{LargestSalary.java[LargestSalary~main~\[QString;@words!582!616!591!595!\[QString;!0!false" name="salary" references="true" stamp="1635191477875" version="1.0"/>
+</session>

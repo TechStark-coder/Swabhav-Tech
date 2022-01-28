@@ -1,0 +1,5 @@
+1635355939138	Rename field 'board'
+1635356074609	Rename method 'checkWinner'
+1635356095689	Rename method 'printBoard'
+1635356230473	Delete element
+1635356251119	Rename type 'Tick'

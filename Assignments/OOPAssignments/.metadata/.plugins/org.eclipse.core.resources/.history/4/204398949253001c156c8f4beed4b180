@@ -1,0 +1,42 @@
+// Copyright to user asif 2021 
+//all rights reserved */
+package com.monocept.basic;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+
+@SuppressWarnings("serial")
+public class ThreeButtons extends JFrame {
+	private static JPanel btnPanel;
+	public static void main(String[] args) {
+		JFrame f = new JFrame("Button Example");
+		JButton addButton = new JButton("ADD");
+        JButton delButton = new JButton("DELETE");
+        JButton saveButton = new JButton("SAVE");
+
+        btnPanel.add(addButton);
+        btnPanel.add(delButton);
+//		JButton a = new JButton("Hello");
+//		JButton b = new JButton("print");
+//		JButton c = new JButton("printasync");
+//
+//		a.setBounds(50, 100, 95, 30);
+//		f.add(a); f.add(b);f.add(c);  
+//		f.setSize(500, 500);
+//		f.setLayout(null);
+//		f.setVisible(true);
+
+//		b.setBounds(50, 100, 95, 30);
+//		f.add(b);
+//		f.setSize(500, 500);
+//		f.setLayout(null);
+//		f.setVisible(true);
+//
+//		c.setBounds(50, 100, 95, 30);
+//		f.add(c);
+//		f.setSize(500, 500);
+//		f.setLayout(null);
+//		f.setVisible(true);
+	}
+}

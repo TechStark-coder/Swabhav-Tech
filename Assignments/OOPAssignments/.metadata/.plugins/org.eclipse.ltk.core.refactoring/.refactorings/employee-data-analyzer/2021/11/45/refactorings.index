@@ -1,0 +1,15 @@
+1635748976713	Delete element
+1635749263981	Rename local variable 'deptNumber'
+1635750710605	Rename method 'employeeWithHighestSalary'
+1635750729665	Rename field 'loader'
+1635750750419	Rename method 'employeeByDeptNumber'
+1635750794927	Rename method 'employeeByDesignation'
+1635790051766	Rename method 'displayEmployeeByDepartmentNumber'
+1635790067508	Rename method 'displayEmployeeByDesignation'
+1635790103455	Rename method 'displayEmployeeWithHighest'
+1635790123315	Rename method 'employeeWithHighest'
+1635790153027	Delete element
+1635790158948	Delete elements
+1635790163528	Delete elements
+1635790167396	Delete element
+1635790191626	Rename type 'EmpTest'

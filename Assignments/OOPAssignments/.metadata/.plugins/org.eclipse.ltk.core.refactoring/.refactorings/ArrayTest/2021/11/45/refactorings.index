@@ -1,0 +1,19 @@
+1635827956071	Copy compilation unit
+1635827963358	Delete element
+1635827974639	Delete element
+1635828045912	Delete element
+1635828428307	Delete element
+1635828602932	Delete element
+1635828608184	Delete elements
+1635828611984	Delete element
+1635828615385	Delete elements
+1635828623257	Delete element
+1635828762611	Rename type 'Moble'
+1635829392268	Rename type 'DisplayBoard'
+1635829427345	Rename type 'Mobile'
+1635842833369	Rename type 'Observer'
+1635842858876	Rename type 'Observable'
+1635842907902	Rename method 'registerObserver'
+1635842922570	Rename method 'notifyObservers'
+1635842940269	Rename method 'removeObserver'
+1635842949021	Rename method 'registerStock'
